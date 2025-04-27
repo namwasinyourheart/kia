@@ -1,0 +1,33 @@
+# Python byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Docker ignore file
+dockerignore
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+vector_db/
+
+notebooks/
